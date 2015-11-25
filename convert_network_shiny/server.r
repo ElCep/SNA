@@ -7,15 +7,50 @@ options(shiny.maxRequestSize = 9*1024^2)
 source(file = "my_melt_function.R")
 
 shinyServer(function(input, output) {
-  datasetInput <- reactive({
+  # Reactivity to subset data ####
+  geodatasetInput <- observe({
+    
     inFile <- input$file1
     
-    if (is.null(inFile))
-      return(NULL)
+    if (is.null(inFile)){
+      return(NULL) 
+    }else{
+      mydata <- read.csv(inFile$datapath, header = input$header,
+                         sep = input$sep, quote = input$quote, na.strings=c("","NA"))
+      
+      mynodes <- noeuds.csv(mydata)
+      
+    }
     
-    mydata <- read.csv(inFile$datapath, header = input$header,
-                       sep = input$sep, quote = input$quote, na.strings=c("","NA"))
-    print(mydata)
+    # Execute selections on data upon button-press
+    if(input$generateButton == 0) return()
+    
+    inp.BSL <- isolate(input$filter1)
+    inp.loc <- isolate(input$filter2)
+    if (inp.BSL=='' | inp.loc=='') return()
+    
+    # BSL switch
+    selection <-switch(inp.BSL
+                       , A = "A"
+                       , B = "B"
+    ) 
+    # Location switch    
+    selection2 <-switch(inp.loc
+                        , C = "C"
+                        , D = "D"
+    )
+    
+    # subset based on selection
+    Subgeodata <- subset(geodata, BSL == selection & Position.Location == selection2)
+    
+    # browser()
+    # aggregate by postcode
+    Subgeodata <- Subgeodata[1:2] #no longer need other columns
+    AggSubGdata <- aggregate(. ~ Postcode, data=Subgeodata, FUN=sum)
+    write.csv(AggSubGdata
+              , file = "solution.csv"
+              , row.names=F
+    )
   })
   
   output$contents <- renderTable({
@@ -25,10 +60,29 @@ shinyServer(function(input, output) {
     # column will contain the local filenames where the data can
     # be found.
     
-    idatasetInput()
+    inFile <- input$file1
+    
+    if (is.null(inFile))
+      return(NULL)
+    
+    read.csv(inFile$datapath, header = input$header,
+                       sep = input$sep, quote = input$quote, na.strings=c("","NA"))
     
   })
   
+  inFile <- input$file1
+  
+  if (is.null(inFile)){
+    return(NULL) 
+  }else{
+    mydata.df <- read.csv(inFile$datapath, header = input$header,
+                          sep = input$sep, quote = input$quote, na.strings=c("","NA"))
+    
+
+    
+  }
+  
+
 #   output$dl.noeuds <- downloadHandler(
 #     mydata <- read.csv(inFile$datapath, header = input$header,
 #                        sep = input$sep, quote = input$quote, na.strings=c("","NA"))
