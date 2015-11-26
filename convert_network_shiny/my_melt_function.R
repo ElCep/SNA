@@ -9,7 +9,8 @@ require(reshape2)
 
 
 ##Chargement de la données
-# data.df <- read.csv("S01/datas/acteurs_eau.csv", sep = ",", header = TRUE, na.strings=c("","NA"))
+#setwd("~/github/presentations/SNA/")
+#D.df <- read.csv("S01/datas/acteurs_eau.csv", sep = ",", header = TRUE, na.strings=c("","NA"))
 
 noeuds.csv <- function(data.df){
   data.df <- data.df[!is.na(data.df$Nom),]
