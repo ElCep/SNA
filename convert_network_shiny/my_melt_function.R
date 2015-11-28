@@ -34,7 +34,7 @@ noeuds.csv <- function(data.df){
   colnames(name.ratach) <- c("orgismes.de.ratachement", "ID_r")
   data.df <- join(data.df, name.ratach, by = "orgismes.de.ratachement", type = "left")
   
-  co_value <- c("Name","ID")
+  co_value <- c("Label","ID")
   colnames(name.df)<- co_value
   colnames(name.inst) <- co_value
   colnames(name.ratach) <- co_value

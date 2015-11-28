@@ -4,9 +4,8 @@ library(shiny)
 # setting this option. Here we'll raise limit to 9MB.
 # options(shiny.maxRequestSize = 9*1024^2)
 
-source(file = "my_melt_function.R")
+source("my_melt_function.R")
 
-library(shiny)
 
 
 ##partie shiny
@@ -32,7 +31,7 @@ shinyServer(function(input, output) {
       return(NULL)
     }
     else
-    {return(noeuds.csv(Dataset()))}
+    {return(isolate(noeuds.csv(Dataset())))}
   })
   
   tableau3<-reactive({
@@ -40,14 +39,14 @@ shinyServer(function(input, output) {
       return(NULL)
     }
     else
-    {return(liens.csv(Dataset()))}
+    {return(isolate(liens.csv(Dataset())))}
   })
   
   
   #download des donnees  
-  output$dl.noeuds<-downloadHandler(
+  output$noeuds<-downloadHandler(
     filename = function() { 
-      as.character(nodes.csv)
+      as.character(input$file)
     },
     content = function(file) {
       write.csv(tableau2(), file)})
