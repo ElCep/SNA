@@ -10,7 +10,7 @@ Ce dossier contient le matériel de cours sur l'initiation à l'analyse de rése
 
 ## App
 
-Une petite application de transformation des données acteurs est disponible sur [shinyapp.io](https://elcep.shinyapps.io/Gephi_acteur). Cette application est également disponible dans ce dépôt Github. Elle est codée en [R](https://www.r-project.org/), grâce au package [shiny](http://shiny.rstudio.com/), ce qui vous permet également de la lancer en `localhost`
+Une petite application de transformation des données acteurs est disponible sur [shinyapp.io](https://elcep.shinyapps.io/gephi_acteurs). Cette application est également disponible dans ce dépôt Github. Elle est codée en [R](https://www.r-project.org/), grâce au package [shiny](http://shiny.rstudio.com/), ce qui vous permet également de la lancer en `localhost`
 
 ```
 library(shiny)
