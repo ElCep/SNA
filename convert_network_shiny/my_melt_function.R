@@ -10,7 +10,7 @@ require(reshape2)
 
 ##Chargement de la données
 #setwd("~/github/presentations/SNA/")
-#D.df <- read.csv("S01/datas/acteurs_eau.csv", sep = ",", header = TRUE, na.strings=c("","NA"))
+#data.df <- read.csv("S01/datas/acteurs_eau.csv", sep = ",", header = TRUE, na.strings=c("","NA"))
 
 noeuds.csv <- function(data.df){
   data.df <- data.df[!is.na(data.df$Nom),]
@@ -39,8 +39,7 @@ noeuds.csv <- function(data.df){
   colnames(name.inst) <- co_value
   colnames(name.ratach) <- co_value
   noeuds <- rbind(name.df, name.inst,name.ratach)
-  
-  
+  noeuds$nodeType <- str_sub(noeuds$ID, start = -1, end = -1)
   
   return(noeuds)
 }
