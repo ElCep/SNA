@@ -29,7 +29,7 @@ Mme,Villaceca,CLE,Tech-albères,FALSE,ASA du canal de Céret,1,Elu,Usagers
 Mr,Martinez,CLE,Tech-albères,FALSE,ASA du canal de Céret,1,Sectretaire,Usagers
 Joseph,Trave,CLE,Tech-albères,FALSE,Comité de conservation de la nature des PO,1,Président,Usagers
 Chantal,Graille,CLE,Tech-albères,TRUE,Agence de l'eau,1,Délégué Régional,Repréentants de l'etat
-"Pierre,Vionnet,CLE,Tech-albères,FALSE,""Agence Régional de l'Environnement, de l'Aménagement et du Logement du Languedoc Roussillon"",1,Directeur,Repréentants de l'etat",,,,,,,,
+Pierre,Vionnet,CLE,Tech-albères,FALSE,"Agence Régional de l'Environnement, de l'Aménagement et du Logement du Languedoc Roussillon",1,Directeur,Repréentants de l'etat
 ,,CLE,Tech-albères,FALSE,Prefecture,1,Représentant,Repréentants de l'etat
 Xavier,Aerts,CLE,Tech-albères,TRUE,DDTM,1,,Repréentants de l'etat
 Agniès,Chabrianges,CLE,Tech-albères,TRUE,DDTM,1,,Repréentants de l'etat
@@ -37,7 +37,7 @@ Agniès,Chabrianges,CLE,Tech-albères,TRUE,DDTM,1,,Repréentants de l'etat
 ,,CLE,Tech-albères,,ONF,0,NA,Repréentants de l'etat
 ,,CLE,Tech-albères,,ONEMA,1,NA,Repréentants de l'etat
 Hermeline,Malherbe,Comité Rivière,Sègre,NA,CG66,,,Collectivite Territoriales
-"Emeric ,Charron,Comité Rivière,Sègre,NA,""CG66, Pôle Barrage-Hydraulique"",,,Collectivite Territoriales",,,,,,,,
+Emeric ,Charron,Comité Rivière,Sègre,NA,"CG66, Pôle Barrage-Hydraulique",,,Collectivite Territoriales
 Damien,Alary,Comité Rivière,Sègre,NA,Conseil Régional Languedoc-Roussillon,,,Collectivite Territoriales
 Frédérique,Cancel-Tonellot,Comité Rivière,Sègre,NA,Conseil Régional Languedoc-Roussillon,,,Collectivite Territoriales
 Denis,Tubau,Comité Rivière,Sègre,NA,Commune de Angoustrine,,,Collectivite Territoriales
@@ -69,10 +69,10 @@ Sandrine,Laurent,Comité Rivière,Sègre,NA,SM de gestion de la STEP de Puigcerd
 Jean,Sarda,Comité Rivière,Sègre,NA,SIVM Vallée du Carol,,,Collectivite Territoriales
 Paul ,Siourac,Comité Rivière,Sègre,NA,SI AEPA La Solane,,,Collectivite Territoriales
 Maurice,De Gerona,Comité Rivière,Sègre,NA,SI Assainissement Egat-Targasonne,,,Collectivite Territoriales
-"Georges ,Armengol,Comité Rivière,Sègre,NA,""Communauté de Communes """"Pyrénées-Cerdagne"""""",,,Collectivite Territoriales",,,,,,,,
-"Claude ,Grau,Comité Rivière,Sègre,NA,""Communauté de Communes """"Pyrénées-Cerdagne"""""",,,Collectivite Territoriales",,,,,,,,
-"Jean-Louis,Demelin,Comité Rivière,Sègre,NA,""Communauté de Communes """"Capcir Haut-Conflent"""""",,,Collectivite Territoriales",,,,,,,,
-"Alain,Bousquet,Comité Rivière,Sègre,NA,""Communauté de Communes """"Capcir Haut-Conflent"""""",,,Collectivite Territoriales",,,,,,,,
+Georges ,Armengol,Comité Rivière,Sègre,NA,"Communauté de Communes ""Pyrénées-Cerdagne""",,,Collectivite Territoriales
+Claude ,Grau,Comité Rivière,Sègre,NA,"Communauté de Communes ""Pyrénées-Cerdagne""",,,Collectivite Territoriales
+Jean-Louis,Demelin,Comité Rivière,Sègre,NA,"Communauté de Communes ""Capcir Haut-Conflent""",,,Collectivite Territoriales
+Alain,Bousquet,Comité Rivière,Sègre,NA,"Communauté de Communes ""Capcir Haut-Conflent""",,,Collectivite Territoriales
 Jean,De Maury,Comité Rivière,Sègre,NA,Comité de Développement Agricole,,,Usagers
 Tony,Baures,Comité Rivière,Sègre,NA,,,,Usagers
 Jacques,Barnole,Comité Rivière,Sègre,NA,ASA des Canaux d'irrigation d'Ur,,,Usagers
@@ -106,16 +106,16 @@ Pierre,Blanque,Comité Rivière,Sègre,NA,SIE Cambre d'Aze,,,Usagers
 Jean-Pierre,Abel,Comité Rivière,Sègre,NA,SIVU Font-Romeu-Pyrénées2000,,,Usagers
 Laurent ,Alaton,Comité Rivière,Sègre,,Sous Préfécture de Prades,,,Repréentants de l'etat
 Francis,Charpentier,Comité Rivière,Sègre,,DDTM 66,,,Repréentants de l'etat
-"Xavier,Aerts,Comité Rivière,Sègre,,""DDTM 66, Service eau et risques"",,,Repréentants de l'etat",,,,,,,,
-"Cyprien,Jacquot,Comité Rivière,Sègre,,""DDTM 66, Service eau et risques"",,,Repréentants de l'etat",,,,,,,,
-"Yves,Henon,Comité Rivière,Sègre,,""DDTM 66, Service Economie Agricole"",,,Repréentants de l'etat",,,,,,,,
+Xavier,Aerts,Comité Rivière,Sègre,,"DDTM 66, Service eau et risques",,,Repréentants de l'etat
+Cyprien,Jacquot,Comité Rivière,Sègre,,"DDTM 66, Service eau et risques",,,Repréentants de l'etat
+Yves,Henon,Comité Rivière,Sègre,,"DDTM 66, Service Economie Agricole",,,Repréentants de l'etat
 Michel ,Deblaize,Comité Rivière,Sègre,,Agence de l'Eau Rhône Méditerranée,,,Repréentants de l'etat
 Claire,Bernat,Comité Rivière,Sègre,,Agence de l'Eau Rhône Méditerranée,,,Repréentants de l'etat
 Laurent ,Moragues,Comité Rivière,Sègre,,Agence de l'Eau Rhône Méditerranée,,,Repréentants de l'etat
 Dominique ,Herman,Comité Rivière,Sègre,,Agence Régionale de Santé,,,Repréentants de l'etat
-"Gabriel,Lecat,Comité Rivière,Sègre,,""DREAL LR, Service Biodiversité Eau et Paysage"",,,Repréentants de l'etat",,,,,,,,
+Gabriel,Lecat,Comité Rivière,Sègre,,"DREAL LR, Service Biodiversité Eau et Paysage",,,Repréentants de l'etat
 Rémy,Arsento,Comité Rivière,Sègre,,ONEMA SD 66,,,Repréentants de l'etat
-"Olivier,Decombas,Comité Rivière,Sègre,,""ONF, Restauration des Terrains de Montagne"",,,Repréentants de l'etat",,,,,,,,
+Olivier,Decombas,Comité Rivière,Sègre,,"ONF, Restauration des Terrains de Montagne",,,Repréentants de l'etat
 Christian,Bouille,CLE,SAGE de l'étang de Salses Leucate,NA,Conseil Régional du Languedoc Rousillon,,Conseiller Régional,Collectivite Territoriales
 Didier,Codorniou,CLE,SAGE de l'étang de Salses Leucate,,Conseil Régional du Languedoc Rousillon,,Conseiller Régional,Collectivite Territoriales
 Sébastien,Pla,CLE,SAGE de l'étang de Salses Leucate,,Conseil Général de l'Aude,,Conseiller Général,Collectivite Territoriales
@@ -144,7 +144,7 @@ Louis,Carles,CLE,SAGE de l'étang de Salses Leucate,,Communauté d'agglomératio
 ,,CLE,SAGE de l'étang de Salses Leucate,,Conchyliculteur,,Président,Usagers
 ,,CLE,SAGE de l'étang de Salses Leucate,,Pêcheurs professionnels de Saint Laurent de la Salanque,,Président,Usagers
 ,,CLE,SAGE de l'étang de Salses Leucate,,Pêcheurs professionnels de Leucate,,Président,Usagers
-",,CLE,SAGE de l'étang de Salses Leucate,,""Association """"Ecologie des Corbières, du Carcassonnais et du Littoral audois"""""",,Président,Usagers",,,,,,,,
+,,CLE,SAGE de l'étang de Salses Leucate,,"Association ""Ecologie des Corbières, du Carcassonnais et du Littoral audois""",,Président,Usagers
 ,,CLE,SAGE de l'étang de Salses Leucate,,Comité départementale de Voile de l'Aude,,Président,Usagers
 ,,CLE,SAGE de l'étang de Salses Leucate,,Fédération de vol libre des Pyrénées Orientales,,Président,Usagers
 ,,CLE,SAGE de l'étang de Salses Leucate,,Fédération régionale de coopération vinicole du Languedoc Roussillon,,Président,Usagers
@@ -165,10 +165,10 @@ Louis,Carles,CLE,SAGE de l'étang de Salses Leucate,,Communauté d'agglomératio
 ,,CLE,SAGE de l'étang de Salses Leucate,,Agence de l'Eau Rhône Méditerranée,,,Repréentants de l'etat
 ,,CLE,SAGE de l'étang de Salses Leucate,,Conservatoire du Littoral,,,Repréentants de l'etat
 ,,CLE,SAGE de l'étang de Salses Leucate,,ONEMA,,,Repréentants de l'etat
-Françoise,BIGOTTE,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Conseil Régional du Languedoc Rousillon,0,Conseillère régional,Collectivite Territoriales
+Françoise,Bigotte,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Conseil Régional du Languedoc Rousillon,0,Conseillère régional,Collectivite Territoriales
 Emeric,Charron,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Conseil général des Pyrénées Orientales,1,Conseiller général,Collectivite Territoriales
-Francis,CLIQUE,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune du Canet,1,Adjoint au maire,Collectivite Territoriales
-Charles,SCHERLE,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune de Saint Nazaire,1,Conseiller municipale,Collectivite Territoriales
+Francis,Clique,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune du Canet,1,Adjoint au maire,Collectivite Territoriales
+Charles,Scherle,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune de Saint Nazaire,1,Conseiller municipale,Collectivite Territoriales
 Jacqueline,Irles,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune de la Raho,0,Conseiller municipale,Collectivite Territoriales
 Albert,Fournier,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune de Pollestre,1,Conseiller municipale,Collectivite Territoriales
 Dominique,Schemla,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Commune de Perpignan,1,,Collectivite Territoriales
@@ -199,7 +199,7 @@ Eric,Andre,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'
 Rémy,Arsenso,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,ONEMA,1,,Repréentants de l'etat
 Florence,Dessales,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Conservatoire du Littoral,0,,Repréentants de l'etat
 Roselyne,Buscail,Contract Etang,Syndicat Mixte des Bassins Versants du Réart et de l'etang de Canet,,Université de perpignan,0,,Repréentants de l'etat
-,Maury,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,SMBVT,,Directeur,Usagers
+Pierre,Maury,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,SMBVT,,Directeur,Usagers
 ,Carol,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,SMBVT,,Directeur,Usagers
 ,Escap,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,SMBVT,,,Usagers
 L,Sentenae,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,Couflent,,,Usagers
@@ -222,48 +222,48 @@ Marie,Bernet,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,AE
 Francoise,Matar,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,Agence eau,,,Usagers
 Lyna,Jacquot,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,DDTM 66,,,Usagers
 Marc,Dumontier,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,PNMGL,,,Usagers
-Jean baptiste,Labau,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,C.C Roussillon conflent,,,Usagers
+Jean Baptiste,Labau,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,C.C Roussillon conflent,,,Usagers
 Donetia,Diulius,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,ARS DT66,,,Usagers
 Liliane,Gaurnont,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,G.O.R,,,Usagers
 Hichem,Tachrift,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,SMNPR,,,Usagers
 ,Chamron,Comité Rivière,Syndicat Mixte des Bassins Versants de la Tèt,,Bpt,,,Usagers
-Charles,Chivilo,Communauté de communes, Agly-Fenouillèdes,,Commune de Maury,,Maire,Collectivite Territoriales
-Emile,Aubigna,Communauté de communes, Agly-Fenouillèdes,,Commune de Maury,,1er Adjoint,Collectivite Territoriales
-Jacques,Bayona,Communauté de communes, Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,Maire,Collectivite Territoriales
-Audray,Jammet,Communauté de communes, Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,2eme Adjointe,Collectivite Territoriales
-Ludovic ,Servant,Communauté de communes, Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,Conseiller,Collectivite Territoriales
-Guy ,Calvet,Communauté de communes, Agly-Fenouillèdes,,Commune Saint-Arnac,,Maire,Collectivite Territoriales
-Roger,Fabresse,Communauté de communes, Agly-Fenouillèdes,,Commune deSaint-Martin-De-Fenouillet,,Maire,Collectivite Territoriales
-Paul,Foussat,Communauté de communes, Agly-Fenouillèdes,,Commune de Rasigueres ,,Maire,Collectivite Territoriales
-Michel,Pigeon,Communauté de communes, Agly-Fenouillèdes,,Commune de La Tour de France,,Maire,Collectivite Territoriales
-Isabelle,Baratciart,Communauté de communes, Agly-Fenouillèdes,,Commune de La Tour de France,,2eme Adjointe,Collectivite Territoriales
-Beatrice,Lagache,Communauté de communes, Agly-Fenouillèdes,,Commune de La Tour de France,,Conseiller,Collectivite Territoriales
-Sidney,Huillet,Communauté de communes, Agly-Fenouillèdes,,Commune de Planezes,,Maire,Collectivite Territoriales
-Gilles,Riviere,Communauté de communes, Agly-Fenouillèdes,,Commune de Lansac,,Maire,Collectivite Territoriales
-Pierre Henry,Bintein,Communauté de communes, Agly-Fenouillèdes,,Commune de Prugnanes,,Maire,Collectivite Territoriales
-Jean-Louis,Raynaud,Communauté de communes, Agly-Fenouillèdes,,Commune de Fenouillet,,Maire,Collectivite Territoriales
-Michel,Garrigue,Communauté de communes, Agly-Fenouillèdes,,Commune de Fosse,,Maire,Collectivite Territoriales
-Jean pierre,Fourlon,Communauté de communes, Agly-Fenouillèdes,,Commune de Caudies-De-Fenouilledes,,Maire,Collectivite Territoriales
-Emmanuel,Smagghe,Communauté de communes, Agly-Fenouillèdes,,Commune de Caudies-De-Fenouilledes,,2eme Adjoint,Collectivite Territoriales
-Jacques,Barthes,Communauté de communes, Agly-Fenouillèdes,,Commune de Lesquerde,,Maire,Collectivite Territoriales
-Francis,Franchet,Communauté de communes, Agly-Fenouillèdes,,Commune de Vira,,Maire,Collectivite Territoriales
-Jean-Pierre,Pilart,Communauté de communes, Agly-Fenouillèdes,,Commune de Ansignan,,Maire,Collectivite Territoriales
-Bernard ,Caillens,Communauté de communes, Agly-Fenouillèdes,,Commune de Caramany,,Maire,Collectivite Territoriales
-Claude,Fillol,Communauté de communes, Agly-Fenouillèdes,,Commune de Felluns,,Maire,Collectivite Territoriales
-Didier,Fourcade,Communauté de communes, Agly-Fenouillèdes,,Commune de Trilla,,Maire,Collectivite Territoriales
-Michel ,Benet,Communauté de communes, Agly-Fenouillèdes,,Commune Le Vivier,,Maire,Collectivite Territoriales
-Louis ,Borras,Communauté de communes, Agly-Fenouillèdes,,Commune de Pezilla-De-Conflent ,,Maire,Collectivite Territoriales
-Auguste ,Blanc ,Communauté de communes, Agly-Fenouillèdes,,Commune de Rabouillet,,Maire,Collectivite Territoriales
-Gilles ,Deulofeu,Communauté de communes, Agly-Fenouillèdes,,Commune de Prats-De-Sourina,,Maire,Collectivite Territoriales
-charles,chivilo,Co. de Comm. Agly Fenouillèdes,,,Co. de Comm. Agly Fenouillèdes,,,
-pierre,maury,SMBVT,syndicat mixte des Bassins Versants du tét,,PGRE,,,
-alexandre,puignaud, CLE,SAGE,,syndicat intercommunale de gestion et d'aménagement du tech,,,
-Francois,licciardi,Contrat de Rivière Sègre,,,communauté de commune pyrénéées-cerdagne,,,
-georges,armengol,,,,Comm. de Co. Pyrénées Cerdagne,,,
-hemeline ,malherbe,CLE,syndicat mixte nappes roussilon,,SAGE,,,
-francis,clique,CLE,,,,,,
-michel,py,CLE,,,SMRivages ,,,
-Francois,rallo,contrat d'Etang,,,SMRéart/canet,,,
+Charles,Chivilo,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Maury,,Maire,Collectivite Territoriales
+Emile,Aubigna,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Maury,,1er Adjoint,Collectivite Territoriales
+Jacques,Bayona,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,Maire,Collectivite Territoriales
+Audray,Jammet,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,2eme Adjointe,Collectivite Territoriales
+Ludovic ,Servant,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Saint-Paul-De-Fenouillet ,,Conseiller,Collectivite Territoriales
+Guy ,Calvet,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune Saint-Arnac,,Maire,Collectivite Territoriales
+Roger,Fabresse,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune deSaint-Martin-De-Fenouillet,,Maire,Collectivite Territoriales
+Paul,Foussat,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Rasigueres ,,Maire,Collectivite Territoriales
+Michel,Pigeon,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de La Tour de France,,Maire,Collectivite Territoriales
+Isabelle,Baratciart,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de La Tour de France,,2eme Adjointe,Collectivite Territoriales
+Beatrice,Lagache,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de La Tour de France,,Conseiller,Collectivite Territoriales
+Sidney,Huillet,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Planezes,,Maire,Collectivite Territoriales
+Gilles,Riviere,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Lansac,,Maire,Collectivite Territoriales
+Pierre Henry,Bintein,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Prugnanes,,Maire,Collectivite Territoriales
+Jean-Louis,Raynaud,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Fenouillet,,Maire,Collectivite Territoriales
+Michel,Garrigue,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Fosse,,Maire,Collectivite Territoriales
+Jean Pierre,Fourlon,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Caudies-De-Fenouilledes,,Maire,Collectivite Territoriales
+Emmanuel,Smagghe,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Caudies-De-Fenouilledes,,2eme Adjoint,Collectivite Territoriales
+Jacques,Barthes,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Lesquerde,,Maire,Collectivite Territoriales
+Francis,Franchet,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Vira,,Maire,Collectivite Territoriales
+Jean-Pierre,Pilart,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Ansignan,,Maire,Collectivite Territoriales
+Bernard ,Caillens,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Caramany,,Maire,Collectivite Territoriales
+Claude,Fillol,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Felluns,,Maire,Collectivite Territoriales
+Didier,Fourcade,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Trilla,,Maire,Collectivite Territoriales
+Michel ,Benet,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune Le Vivier,,Maire,Collectivite Territoriales
+Louis ,Borras,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Pezilla-De-Conflent ,,Maire,Collectivite Territoriales
+Auguste ,Blanc ,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Rabouillet,,Maire,Collectivite Territoriales
+Gilles ,Deulofeu,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Commune de Prats-De-Sourina,,Maire,Collectivite Territoriales
+Charles,Chivilo,outils en reflexion,Communauté de communes  Agly-Fenouillèdes,,Co. de Comm. Agly Fenouillèdes,,,
+Pierre,Maury,SMBVT,syndicat mixte des Bassins Versants du tét,,PGRE,,,
+Alexandre,Puignaud, CLE,SAGE,,syndicat intercommunale de gestion et d'aménagement du tech,,,
+Francois,Licciardi,Contrat de Rivière Sègre,,,Communauté de commune pyrénéées-cerdagne,,,
+Georges,Armengol,,,,Comm. de Co. Pyrénées Cerdagne,,,
+Hemeline ,Malherbe,CLE,syndicat mixte nappes roussilon,,SAGE,,,
+Francis,Clique,CLE,Syndicat Mixte pour la protection et la gestion de la Nappe (SAGE),,Perpignan Méditerranée Communauté d’Agglomération,,,
+Michel,Py,CLE,,,Syndicat Mixte Rivages ,,,
+Francois,Rallo,contrat d'Etang,,,Syndicat Mixte Réart/canet,,,
 Thierry,Awansi,CLE,Syndicat Mixte pour la protection et la gestion de la Nappe (SAGE),,Syndicat Mixte du Bassin Versant de la Têt,,Représentant,
 Remy,Attard,CLE,Syndicat Mixte pour la protection et la gestion de la Nappe (SAGE),,Syndicat Mixte du Bassin Versant de la Têt,,Représentant,
 Yves,Barniol,CLE,Syndicat Mixte pour la protection et la gestion de la Nappe (SAGE),,Syndicat Mixte de Production d’Eau Potable du Tech Aval,,Président,
